@@ -739,6 +739,8 @@ public class PeggMachine {
     initSlickUtilFonts();
 
 
+
+    //foo
     level_id = 1; setupLevel();
   }
   public void addRandomOrbTest() {
